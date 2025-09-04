@@ -15,10 +15,12 @@ Los diagramas están escritos en **PlantUML**.
 Para generarlos:
 
 ```bash
-plantuml c1_context.puml
-plantuml c2_containers.puml
-plantuml deployment.puml
-plantuml sequence_register_sale.puml
+
+## 📊 Diagramas principales
+- **Contexto (C1):** ![C1](./docs/images/c1_context.png)
+- **Contenedores (C2):** ![C2](./docs/images/c2_containers.png)
+- **Secuencia HU1:** ![Secuencia](./docs/images/sequence_register_sale.png)
+- **Despliegue:** ![Despliegue](./docs/images/deployment.png)
 ```
 
 ## Objetivo del Módulo
