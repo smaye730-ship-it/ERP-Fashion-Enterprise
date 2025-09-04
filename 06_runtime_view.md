@@ -11,4 +11,4 @@ Este escenario describe cómo se gestiona el registro de un nuevo producto en el
 4. El sistema actualiza el inventario y notifica al usuario.
 
 ### Diagrama de Secuencia
-![Diagrama de Secuencia](./images/sequence_register_product.png)
+![Diagrama de Despliegue](documentos/imagenes/sequence_register_sale.png)
