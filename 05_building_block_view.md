@@ -3,7 +3,7 @@
 El sistema ERP se organiza en contenedores que cumplen responsabilidades específicas.
 
 ## Diagrama de Contenedores (C2)
-![Diagrama de Contenedores](./images/c2_containers.png)
+![Diagrama de Contenedores](documentos/imagenes/c2_containers.png)
 
 ### Responsabilidades de los Contenedores
 - **Frontend (React):** Interfaz de usuario intuitiva y accesible.
