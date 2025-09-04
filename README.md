@@ -18,10 +18,10 @@ Para generarlos:
 
 ```
 ## 📊 Diagramas principales
-- **Contexto (C1):** ![C1](./documentos/imagenes/c1_context.png)
-- **Contenedores (C2):** ![C2](./documentos/imagenes/c2_containers.png)
-- **Secuencia HU1:** ![Secuencia](./documentos/imagenes/sequence_register_sale.png)
-- **Despliegue:** ![Despliegue](./documentos/imagenes/deployment.png)
+- **Contexto (C1):** ![C1](./docs/images/c1_context.png)
+- **Contenedores (C2):** ![C2](./docs/images/c2_containers.png)
+- **Secuencia HU1:** ![Secuencia](./docs/images/sequence_register_sale.png)
+- **Despliegue:** ![Despliegue](./docs/images/deployment.png)
   
 ## Objetivo del Módulo
 
