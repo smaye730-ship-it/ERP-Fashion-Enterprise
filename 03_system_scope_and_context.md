@@ -5,4 +5,4 @@ El sistema ERP se integra con las áreas principales del negocio: inventario, co
 ## Diagrama de Contexto (C1)
 A continuación se presenta el diagrama de contexto del sistema ERP:
 
-![Diagrama de Contexto](./images/c1_context.png)
+![Diagrama de Contexto](documentos/imagenes/c1_context.png)
