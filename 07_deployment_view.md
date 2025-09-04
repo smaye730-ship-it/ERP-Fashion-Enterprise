@@ -6,3 +6,4 @@ El sistema ERP puede desplegarse en un servidor on-premise o en la nube (Azure).
 - **Servidor Web:** Hospeda la SPA en React.
 - **Servidor de Base de Datos:** SQL Server con alta disponibilidad.
 - **CI/CD:** GitHub Actions para despliegues automáticos.
+![Diagrama de Despliegue](documentos/imagenes/deployment.png)
