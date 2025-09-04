@@ -16,15 +16,16 @@ Para generarlos:
 
 ```bash
 
-## 📊 Diagramas principales
-- **Contexto (C1):** ![C1](./docs/images/c1_context.png)
-- **Contenedores (C2):** ![C2](./docs/images/c2_containers.png)
-- **Secuencia HU1:** ![Secuencia](./docs/images/sequence_register_sale.png)
-- **Despliegue:** ![Despliegue](./docs/images/deployment.png)
 ```
-
+## 📊 Diagramas principales
+- **Contexto (C1):** ![C1](./documentos/imagenes/c1_context.png)
+- **Contenedores (C2):** ![C2](./documentos/imagenes/c2_containers.png)
+- **Secuencia HU1:** ![Secuencia](./documentos/imagenes/sequence_register_sale.png)
+- **Despliegue:** ![Despliegue](./documentos/imagenes/deployment.png)
+  
 ## Objetivo del Módulo
 
 - Gestionar **proveedores**, **órdenes de compra** y **facturas**.  
 - Asegurar la trazabilidad de las compras desde la solicitud hasta el pago.  
 - Integrarse con **Inventario** y **Contabilidad**.
+  
